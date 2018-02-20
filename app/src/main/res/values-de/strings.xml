@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZelandoNew</string>
+    <string name="hello">Ciao</string>
+    <string name="vai_alla_login">Vai alla login</string>
+</resources>
